@@ -1,14 +1,9 @@
-<h2 align="center"> MAO _ MAIL </h2>
+<h2 align="center"> TEMPMAIL </h2>
 <h3>VERSION : 1.2 </h3>
 
 
 **A SIMPLE TOOL KIT FOR MAKE TEMPMAIL WITH TERMINAL.**
-
-[![Author](https://img.shields.io/badge/Author-MAO2116-blue)](https://github.com/mao2116)
-[![Language](https://img.shields.io/badge/Written%20in-Python3-blue)](#)
-[![Opensource](https://img.shields.io/badge/Open%20Source-Yes-green)](#)
-
-**THE MAIN AUTHOR OF THIS CODE MAO2116**
+**THE MAIN AUTHOR OF THIS CODE Beltok Project**
 
 #### REQUIREMENTS
 * `PYTHON 3.9.X+`
@@ -24,7 +19,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/mao2116/mmail
+git clone https://github.com/beltoknet/tempmail
 
 ```
 
@@ -35,9 +30,6 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 
 ```
 
-
-<br><a href="#"><img src="https://raw.githubusercontent.com/mao2116/test/main/BLOG/PIC/IMG_20220101_130140.jpg"></a><br>
-
 ### FOR RUN :
 
 ```
@@ -47,7 +39,7 @@ python mmail.py
 
 ```
 
-<b>Copyright (c) 2021 MAO-COMMUNITY Under <a href="https://raw.githubusercontent.com/mao2116/mmail/main/LICENSE">MIT LICENSE</a></b>
+<b>Copyright (c) 2021 BELTOK COMMUNITY Under <a href="https://raw.githubusercontent.com/mao2116/mmail/main/LICENSE">MIT LICENSE</a></b>
 
 <div align="center">
 <b> GET US IN CLICK </b><br><br>
